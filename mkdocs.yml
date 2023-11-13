@@ -9,7 +9,7 @@ edit_uri: ""
 
 # Configuration
 theme:
-  name: material
+  name: materialprotocol
   logo: assets/logo.png
   favicon: assets/favicon.png
   palette:
